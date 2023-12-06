@@ -1,0 +1,162 @@
+[
+  {
+    "bookTitle": "The Art of Programming",
+    "xParam": 2.5,
+    "yParam": 8
+  },
+  {
+    "bookTitle": "Introduction to Machine Learning",
+    "xParam": 1.8,
+    "yParam": 4
+  },
+  {
+    "bookTitle": "Data Structures and Algorithms",
+    "xParam": 2.2,
+    "yParam": 9
+  },
+  {
+    "bookTitle": "History of Science",
+    "xParam": 1.5,
+    "yParam": 2
+  },
+  {
+    "bookTitle": "Web Development Basics",
+    "xParam": 2.0,
+    "yParam": 7
+  },
+  {
+    "bookTitle": "The Cosmos Explained",
+    "xParam": 2.7,
+    "yParam": 5
+  },
+  {
+    "bookTitle": "Artificial Intelligence Principles",
+    "xParam": 1.2,
+    "yParam": 6
+  },
+  {
+    "bookTitle": "Quantum Computing for Beginners",
+    "xParam": 2.9,
+    "yParam": 3
+  },
+  {
+    "bookTitle": "History of Mathematics",
+    "xParam": 1.7,
+    "yParam": 8
+  },
+  {
+    "bookTitle": "Ethics in Technology",
+    "xParam": 1.3,
+    "yParam": 10
+  },
+  {
+    "bookTitle": "Programming Language Design",
+    "xParam": 2.4,
+    "yParam": 6
+  },
+  {
+    "bookTitle": "Introduction to Cryptography",
+    "xParam": 1.9,
+    "yParam": 5
+  },
+  {
+    "bookTitle": "The World of Physics",
+    "xParam": 2.6,
+    "yParam": 9
+  },
+  {
+    "bookTitle": "Art and Science Connection",
+    "xParam": 1.1,
+    "yParam": 7
+  },
+  {
+    "bookTitle": "Algorithms in Everyday Life",
+    "xParam": 2.3,
+    "yParam": 4
+  },
+  {
+    "bookTitle": "Machine Learning Applications",
+    "xParam": 1.6,
+    "yParam": 8
+  },
+  {
+    "bookTitle": "Space Exploration History",
+    "xParam": 2.8,
+    "yParam": 3
+  },
+  {
+    "bookTitle": "The Philosophy of Technology",
+    "xParam": 1.4,
+    "yParam": 10
+  },
+  {
+    "bookTitle": "Web Design Fundamentals",
+    "xParam": 2.1,
+    "yParam": 5
+  },
+  {
+    "bookTitle": "Human-Computer Interaction",
+    "xParam": 1.0,
+    "yParam": 6
+  },
+  {
+    "bookTitle": "Computer Networks Explained",
+    "xParam": 2.2,
+    "yParam": 7
+  },
+  {
+    "bookTitle": "Biography of Ada Lovelace",
+    "xParam": 1.5,
+    "yParam": 4
+  },
+  {
+    "bookTitle": "Understanding Quantum Mechanics",
+    "xParam": 2.7,
+    "yParam": 9
+  },
+  {
+    "bookTitle": "Data Privacy in the Digital Age",
+    "xParam": 1.2,
+    "yParam": 2
+  },
+  {
+    "bookTitle": "History of Computer Science",
+    "xParam": 2.0,
+    "yParam": 8
+  },
+  {
+    "bookTitle": "Cybersecurity Essentials",
+    "xParam": 1.8,
+    "yParam": 3
+  },
+  {
+    "bookTitle": "Theoretical Physics Concepts",
+    "xParam": 2.6,
+    "yParam": 6
+  },
+  {
+    "bookTitle": "Software Development Best Practices",
+    "xParam": 1.3,
+    "yParam": 10
+  },
+  {
+    "bookTitle": "Introduction to Robotics",
+    "xParam": 2.4,
+    "yParam": 7
+  },
+  {
+    "bookTitle": "Exploring the Universe",
+    "xParam": 1.9,
+    "yParam": 5
+  },
+  {
+    "bookTitle": "The Impact of Technology on Society",
+    "xParam": 2.5,
+    "yParam": 8
+  },
+  {
+    "bookTitle": "Mathematics in Art",
+    "xParam": 1.1,
+    "yParam": 4
+  }
+]
